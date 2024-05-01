@@ -14,17 +14,8 @@ This project builds a convolutional neural network (CNN) to classify images as e
 3. **Training:** Compile the model and train with the training set.
 4. **Predictions:** Test the model with a single image to classify it as cat or dog.
 
-## Results
-The model achieved a final accuracy of [XX]%. It can classify images as cats or dogs with a high level of confidence.
-
 ## How to Run
 1. Clone the repository to your environment.
 2. Ensure you have TensorFlow and Keras installed.
 3. Load the data, train the model, and run predictions.
-
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For questions, contact [Your Name] at [Your Email].
 
